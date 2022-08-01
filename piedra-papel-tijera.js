@@ -11,7 +11,7 @@ function player() {
     } else if (selection == 2) {
         final = "Papel";
     } else if (selection == 3) {
-        final = "Tijera";
+        final = "Tijera"s;
     }
 
 };
